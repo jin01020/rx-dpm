@@ -4,7 +4,7 @@ This repository is the PyTorch implementation for the paper [Enhanced Diffusion 
 
 ## Citation
 ```
-@inproceedings{kang2024odgm,
+@inproceedings{choi2025rx-dpm,
   author    = {Choi, Jinyoung and Kang, Junoh and Han, Bohyung},
   title     = {Enhanced Diffusion Sampling via Extrapolation with Multiple ODE Solutions},
   booktitle = {ICLR},

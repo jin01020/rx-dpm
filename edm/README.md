@@ -1,5 +1,5 @@
-# RX-Euler
-This is the codebase for RX-Euler.
+# RX-Euler (EDM)
+This is the codebase for RX-Euler with EDM backbone.
 This repository is based on [NVlabs/edm](https://github.com/NVlabs/edm).
 
 ## Dependencies
